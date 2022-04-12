@@ -1,4 +1,4 @@
-### Hello 👋 
+### Hello World! My name is Cody Degraffe-Niles, but you can also call me Niles. 👋 
 
 <!--
 **CodyDegraffeNiles/CodyDegraffeNiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a software enginner, my favorite part of the job is, surprsingly, debbugging. I enjoy the sense of accomplishment as well as wonder that comes with squashing a particular hard bug and see my code working as intended. I, especially, enjoy collobarting with others to full breakdown and fix our code.
+As a software enginner, my favorite part of the job is, surprisingly, debbugging. I enjoy the sense of accomplishment as well as wonder that comes with squashing a particularly hard bug and see my code working as intended. I, especially, enjoy collobarting with others to fully breakdown what is causing the bug and fixing it.
 
 Feel free to contact me at codypdniles@gmail.com.
 
 Check out my projects below, which I think are pretty cool.
+
+[Mini-Xcom](https://github.com/CodyDegraffeNiles/MINI-XCOM)
+
+[Cacophony](https://github.com/CodyDegraffeNiles/Cacophony)
+
+[Hoppers](https://github.com/JonJWong/Hoppers)
 
 ### GitHub stats
 
