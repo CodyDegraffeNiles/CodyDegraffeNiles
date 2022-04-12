@@ -24,4 +24,4 @@ Check out my projects below, which I think are pretty cool.
 ### GitHub stats
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyDegraffeNiles&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyDegraffeNiles&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyDegraffeNiles&show_icons=true&theme=gruvbox&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
