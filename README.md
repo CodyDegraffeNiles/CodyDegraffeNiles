@@ -21,11 +21,11 @@ Feel free to contact me at codypdniles@gmail.com.
 
 Check out my projects below, which I think are pretty cool.
 
-<a href="https://github.com/CodyDegraffeNiles/MINI-XCOM" target="_blank">Mini-Xcom</a>
+<a href="https://github.com/CodyDegraffeNiles/MINI-XCOM">Mini-Xcom</a>
 
-<a href="https://github.com/CodyDegraffeNiles/Cacophony" target="_blank">Cacophony</a> 
+<a href="https://github.com/CodyDegraffeNiles/Cacophony">Cacophony</a> 
 
-<a href="https://github.com/CodyDegraffeNiles/Hoppers" target="_blank">Hoppers</a>
+<a href="https://github.com/CodyDegraffeNiles/Hoppers">Hoppers</a>
 
 ### GitHub stats
 
