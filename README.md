@@ -21,7 +21,7 @@ Feel free to contact me at codypdniles@gmail.com.
 
 Check out my projects below, which I think are pretty cool.
 
-[Mini-Xcom](https://github.com/CodyDegraffeNiles/MINI-XCOM)
+<a href = "https://github.com/CodyDegraffeNiles/MINI-XCOM"> Mini-Xcom </a>
 
 [Cacophony](https://github.com/CodyDegraffeNiles/Cacophony)
 
