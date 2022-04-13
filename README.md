@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My favorite part of coding is, surprisingly, debbugging. I enjoy the sense of accomplishment as well as wonder that comes with squashing a particularly hard bug and see code working as intended. I, especially, enjoy collobarting with others to fully breakdown what is causing the bug and fixing it.
+My favorite part of coding is, surprisingly, debbugging. I crave the sense of accomplishment as well as wonder that comes with squashing a particularly hard bug and see code working as intended. I especially enjoy collobarting with others to fully understand and breakdown what is causing the bug and how to fix it.
 
 Feel free to contact me at codypdniles@gmail.com.
 
-Check out my projects below, which I think are pretty cool.
+Check out my projects below.
 
-<a href="https://github.com/CodyDegraffeNiles/MINI-XCOM"> Mini-Xcom</a>
+<a href="https://github.com/CodyDegraffeNiles/MINI-XCOM">Mini-Xcom</a>
 
 <a href="https://github.com/CodyDegraffeNiles/Cacophony">Cacophony</a> 
 
