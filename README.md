@@ -1,4 +1,4 @@
-### Hello World! My name is Cody Degraffe-Niles, but you can also call me Niles.
+### My name is Cody Degraffe-Niles, but you can also call me Niles.
 
 <!--
 **CodyDegraffeNiles/CodyDegraffeNiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
