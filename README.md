@@ -25,7 +25,7 @@ Check out my projects below.
 
 <a href="https://github.com/CodyDegraffeNiles/Cacophony">Cacophony</a> 
 
-<a href="https://github.com/CodyDegraffeNiles/Hoppers">Hoppers</a>
+<a href="https://github.com/JonJWong//Hoppers">Hoppers</a>
 
 ### GitHub stats
 
