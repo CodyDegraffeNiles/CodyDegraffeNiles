@@ -41,7 +41,7 @@ Check out my projects below.
 
 <details>
  <summary>Mini-Xcom</summary>
- A turn based Javascript game where users command a squad of tanks and fight the AI to the last tank standing.
+ A turn-based Javascript game where users command a squad of tanks and fight the AI to the last tank standing.
  <br/>
  <a href="https://codydegraffeniles.github.io/MINI-XCOM/">Live Link </a>
  <a href="https://github.com/CodyDegraffeNiles/MINI-XCOM">Repo</a>
