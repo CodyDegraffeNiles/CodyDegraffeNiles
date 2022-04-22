@@ -21,11 +21,33 @@ Feel free to contact me at codypdniles@gmail.com.
 
 Check out my projects below.
 
-<a href="https://github.com/CodyDegraffeNiles/MINI-XCOM">Mini-Xcom</a>
+<details>
+ <summary>Cacophony</summary>
+  A Full Stack clone of Discord where users can create/join servers and chat in real time with other users either in channels or in direct messages.
+   <br/>
+   <a href="https://cacophony-1.herokuapp.com/#/">Live Link </a>
+   <br/>
+   <a href="https://github.com/CodyDegraffeNiles/Cacophony"> Repo</a> 
+</details>
 
-<a href="https://github.com/CodyDegraffeNiles/Cacophony">Cacophony</a> 
+<details> 
+ <summary>Hoppers</summary>
+ A MERN stack application, built by a team of 4 enginnners, where users can plan/join the ultimate event and chat with other attendents about the            adventures that await.
+   <br/>
+  <a href="https://go-hoppers.herokuapp.com/#">Live Link </a>
+  <br/>
+  <a href="https://github.com/JonJWong//Hoppers">Repo</a>
+</details>
 
-<a href="https://github.com/JonJWong//Hoppers">Hoppers</a>
+<details>
+ <summary>Mini-Xcom</summary>
+ A turn based Javascript game where users command a squad of tanks and fight the AI to the last tank standing.
+ <br/>
+ <a href="https://codydegraffeniles.github.io/MINI-XCOM/">Live Link </a>
+ <a href="https://github.com/CodyDegraffeNiles/MINI-XCOM">Repo</a>
+ <br/>
+</details>
+
 
 ### GitHub stats
 
