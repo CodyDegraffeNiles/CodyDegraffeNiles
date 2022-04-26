@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My favorite part of coding is, surprisingly, debbugging. I crave the sense of accomplishment as well as wonder that comes with squashing a particularly hard bug and see code working as intended. I especially enjoy collobarting with others to fully understand and breakdown what is causing the bug and how to fix it.
+My favorite part of coding is, surprisingly, debugging. I crave the sense of accomplishment as well as the wonder that comes with squashing a particularly hard bug and seeing code working as intended. I especially enjoy collaborating with others to fully understand and break down what is causing the bug and how to fix it.
 
 Feel free to contact me at codypdniles@gmail.com.
 
@@ -23,7 +23,7 @@ Check out my projects below.
 
 <details>
  <summary>Cacophony</summary>
-  A Full Stack clone of Discord where users can create/join servers and chat in real time with other users either in channels or in direct messages.
+  A FullStack clone of Discord where users can create/join servers and chat in real-time with other users either in channels or in direct messages.
   <br/>
    <img src="https://media.giphy.com/media/V6DyDC42BUjarnCtEd/giphy.gif" alt="Cacophony Demo"/>
   <br/>
@@ -33,7 +33,7 @@ Check out my projects below.
 
 <details> 
  <summary>Hoppers</summary>
- A MERN stack application, built by a team of 4 engineers, where users can plan/join the ultimate event and chat with other attendents about the            adventures that await.
+ A MERN stack application, built by a team of 4 engineers, where users can plan/join the ultimate event and chat with other attendents about the adventures that await.
    <br/>
   <img src="https://media.giphy.com/media/xs3l47FQu2yrMSgEaI/giphy.gif" alt="Hoppers Demo"/>
  <br/>
@@ -43,7 +43,7 @@ Check out my projects below.
 
 <details>
  <summary>Mini-Xcom</summary>
- A turn-based Javascript game where users command a squad of tanks and fight the AI to the last tank standing.
+ A turn-based Javascript game where a user commands a squad of tanks and fights the AI to the last tank standing.
  <br/>
  <img src="https://media.giphy.com/media/ZNyuPiw8I6FKUzUDT6/giphy.gif" alt="Mini-Xcom Demo" />
   <br/>
