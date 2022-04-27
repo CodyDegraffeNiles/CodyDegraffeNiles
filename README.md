@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My favorite part of coding is, surprisingly, debugging. I crave the sense of accomplishment as well as the wonder that comes with squashing a particularly hard bug and seeing code working as intended. I especially enjoy collaborating with others to fully understand and break down what is causing the bug and how to fix it.
+My favorite part of coding is, surprisingly, debugging. I crave the sense of accomplishment and the wonder that comes with squashing a particularly hard bug and seeing code working as intended. I especially enjoy collaborating with others to fully understand and break down what is causing the bug and how to fix it.
 
 Feel free to contact me at codypdniles@gmail.com.
 
