@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 My favorite part of coding is, surprisingly, debugging. I crave the sense of accomplishment and the wonder that comes with squashing a particularly hard bug and seeing code working as intended. I especially enjoy collaborating with others to fully understand and break down what is causing the bug and how to fix it.
 
-Feel free to contact me at codypdniles@gmail.com.
-
 Check out my projects below.
 
 <details>
@@ -50,6 +48,9 @@ Check out my projects below.
  <a href="https://codydegraffeniles.github.io/MINI-XCOM/">Live Link </a>
  <a href="https://github.com/CodyDegraffeNiles/MINI-XCOM">Repo</a>
 </details>
+
+  
+ Contact me: codypdniles@gmail.com
 
 
 ### GitHub stats
