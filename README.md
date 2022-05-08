@@ -21,7 +21,7 @@ Check out my projects below.
 
 <details>
  <summary>Cacophony</summary>
-  A FullStack clone of Discord where users can create/join servers and chat in real-time with other users either in channels or in direct messages.
+  A Full Stack clone of Discord where users can create/join servers and chat in real-time with other users either in channels or in direct messages.
   <br/>
    <img src="https://media.giphy.com/media/V6DyDC42BUjarnCtEd/giphy.gif" alt="Cacophony Demo"/>
   <br/>
