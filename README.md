@@ -31,7 +31,7 @@ Check out my projects below.
 
 <details> 
  <summary>Hoppers</summary>
- A MERN stack application, built by a team of 4 engineers, where users can plan/join the ultimate event and chat with other attendents about the adventures that await.
+ A MERN stack application, built by a team of 4 engineers, where users can plan/join the ultimate event and chat with other attendees about the adventures that await.
    <br/>
   <img src="https://media.giphy.com/media/xs3l47FQu2yrMSgEaI/giphy.gif" alt="Hoppers Demo"/>
  <br/>
@@ -41,7 +41,7 @@ Check out my projects below.
 
 <details>
  <summary>Mini-Xcom</summary>
- A turn-based Javascript game where a user commands a squad of tanks and fights the AI to the last tank standing.
+ A turn-based Javascript game where a user commands a squad of tanks and fight a competent AI to the last tank standing.
  <br/>
  <img src="https://media.giphy.com/media/ZNyuPiw8I6FKUzUDT6/giphy.gif" alt="Mini-Xcom Demo" />
   <br/>
