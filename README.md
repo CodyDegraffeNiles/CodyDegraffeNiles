@@ -25,7 +25,7 @@ Check out my projects below.
   <br/>
    <img src="https://media.giphy.com/media/V6DyDC42BUjarnCtEd/giphy.gif" alt="Cacophony Demo"/>
   <br/>
-   <a href="https://cacophony-1.herokuapp.com/#/">Live Link </a>
+<!--    <a href="https://cacophony-1.herokuapp.com/#/">Live Link </a> -->
    <a href="https://github.com/CodyDegraffeNiles/Cacophony"> Repo</a>
 </details>
 
@@ -35,7 +35,7 @@ Check out my projects below.
    <br/>
   <img src="https://media.giphy.com/media/xs3l47FQu2yrMSgEaI/giphy.gif" alt="Hoppers Demo"/>
  <br/>
-  <a href="https://go-hoppers.herokuapp.com/#">Live Link </a>
+<!--   <a href="https://go-hoppers.herokuapp.com/#">Live Link </a> -->
   <a href="https://github.com/JonJWong//Hoppers">Repo</a>
 </details>
 
